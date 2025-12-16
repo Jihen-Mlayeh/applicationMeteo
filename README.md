@@ -250,7 +250,7 @@ flutter pub add intl
     ├── Barre de recherche
     ├── Carte météo actuelle
     ├── Informations détaillées (6 items)
-    └── Prévisions 7 jours (scroll horizontal)
+    └── Prévisions 4 jours (scroll horizontal)
 ```
 
 ---
